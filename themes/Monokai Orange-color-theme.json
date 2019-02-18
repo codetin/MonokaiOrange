@@ -900,7 +900,7 @@
 				"meta.paragraph.markdown meta.hard-line-break.markdown"
 			],
 			"settings": {
-				"background": "#ab9df2"
+			//	"background": "#ab9df2"
 			}
 		},
 		{
