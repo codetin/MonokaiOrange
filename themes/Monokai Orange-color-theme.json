@@ -1042,14 +1042,14 @@
 		{
 			"scope": "storage.type.extends",
 			"settings": {
-				"fontStyle": "normal",
+				"fontStyle": "",
 				"foreground": "#ff6188"
 			}
 		},
 		{
 			"scope": "storage.type.function.arrow",
 			"settings": {
-				"fontStyle": "normal",
+				"fontStyle": "",
 				"foreground": "#ff6188"
 			}
 		},
@@ -1178,7 +1178,7 @@
 		{
 			"scope": "support.type.property-name",
 			"settings": {
-				"fontStyle": "normal",
+				"fontStyle": "",
 				"foreground": "#fcfcfa"
 			}
 		},
