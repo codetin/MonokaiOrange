@@ -1,0 +1,22 @@
+{
+    "name": "monokai-orange",
+    "publisher": "codetin",
+    "displayName": "Monokai Orange",
+    "description": "Monokai Orange Theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.31.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Monokai Orange",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Monokai Orange-color-theme.json"
+            }
+        ]
+    }
+}
