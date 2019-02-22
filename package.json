@@ -3,7 +3,7 @@
     "publisher": "codetin",
     "displayName": "Monokai Orange",
     "description": "Monokai Orange Theme",
-    "version": "0.0.2",
+    "version": "0.1.0",
     "engines": {
         "vscode": "^1.31.0"
     },
@@ -11,9 +11,9 @@
         "Themes"
     ],
     "repository": {
-		"type": "git",
-		"url": "https://github.com/codetin/MonokaiOrange"
-	},
+        "type": "git",
+        "url": "https://github.com/codetin/MonokaiOrange"
+    },
     "contributes": {
         "themes": [
             {
