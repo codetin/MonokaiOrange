@@ -18,3 +18,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ### Fixed
 - "fontStyle": "normal" to "fontStyle": ""
 - "settings"."background" is not supported, been comment.
+
+## [0.0.3] - 2019-11-14
+### Changed
+- Change "activityBar.foreground" to "#FFFFFF" to fit vscode 1.40.1
