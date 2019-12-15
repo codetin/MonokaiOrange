@@ -9,6 +9,11 @@ code_tin
 [Github](https://github.com/codetin/MonokaiOrange)     
 
 ## Change Log
+>### [0.1.2] - 2019-12-15
+>#### Changed
+>- Change comment color to #a9dc76
+
+
 >### [0.1.1] - 2019-11-14
 >#### Changed
 >- Change major version start from 0.1.0
@@ -30,3 +35,6 @@ code_tin
 ## Suggest Font
 [Fira Code](https://github.com/tonsky/FiraCode)  
 Thanks for tonsky's great job.
+
+## How to build this extension
+vsce package
