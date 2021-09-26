@@ -3,7 +3,9 @@
     "publisher": "codetin",
     "displayName": "Monokai Orange",
     "description": "Monokai Orange Theme",
-    "version": "0.1.3",
+    "version": "0.1.5",
+    "license": "MIT",
+    "icon": "icon.png",
     "engines": {
         "vscode": "^1.31.0"
     },
@@ -21,11 +23,16 @@
                 "uiTheme": "vs-dark",
                 "path": "./themes/monokai-orange-color-theme.json"
             }
+        ],
+        "semanticTokenScopes": [
+            {
+                "scopes": {
+                    "numberic": [
+                        "constant.numeric",
+                        "constant.numeric.dec.python"
+                    ]
+                }
+            }
         ]
-    },
-    "configurationDefaults": {
-        "[python]": {
-            "editor.semanticHighlighting.enabled": true
-        }
     }
 }
