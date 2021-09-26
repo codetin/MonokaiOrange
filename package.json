@@ -3,7 +3,7 @@
     "publisher": "codetin",
     "displayName": "Monokai Orange",
     "description": "Monokai Orange Theme",
-    "version": "0.1.2",
+    "version": "0.1.3",
     "engines": {
         "vscode": "^1.31.0"
     },
@@ -19,7 +19,7 @@
             {
                 "label": "Monokai Orange",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Monokai Orange-color-theme.json"
+                "path": "./themes/monokai-orange-color-theme.json"
             }
         ]
     }
