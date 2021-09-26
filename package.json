@@ -22,5 +22,10 @@
                 "path": "./themes/monokai-orange-color-theme.json"
             }
         ]
+    },
+    "configurationDefaults": {
+        "[python]": {
+            "editor.semanticHighlighting.enabled": true
+        }
     }
 }

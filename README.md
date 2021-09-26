@@ -11,7 +11,7 @@ Monokai Orange is opensource and free to use.
 code_tin
 
 ##Screen Shot
-![截图](https://github.com/codetin/MonokaiOrange/blob/master/darkplusplus/screenshot.png?raw=true)
+![截图](https://github.com/codetin/MonokaiOrange/blob/master/screenshot.png?raw=true)
 
 ## Github
 

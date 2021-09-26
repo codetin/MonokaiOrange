@@ -2,6 +2,7 @@
     "name": "Monokai Orange",
     "$schema": "vscode://schemas/color-theme",
     "type": "dark",
+    "semanticHighlighting": true,
     "colors": {
         "activityBar.background": "#19181a",
         "activityBar.border": "#19181a",
@@ -36,7 +37,7 @@
         "editor.findMatchHighlightBorder": "#00000000",
         "editor.findRangeHighlightBackground": "#fcfcfa0c",
         "editor.findRangeHighlightBorder": "#00000000",
-        "editor.foreground": "#ffd866",
+        //"editor.foreground": "#ffd866",
         "editor.hoverHighlightBackground": "#fcfcfa0c",
         "editor.inactiveSelectionBackground": "#fcfcfa0c",
         "editor.lineHighlightBackground": "#fcfcfa0c",
@@ -412,7 +413,7 @@
         {
             "scope": "entity.name.namespace",
             "settings": {
-                "foreground": "#fcfcfa"
+                "foreground": "#c100d3"
             }
         },
         {
@@ -1059,7 +1060,7 @@
             "scope": "support.type.property-name",
             "settings": {
                 "fontStyle": "",
-                "foreground": "#fcfcfa"
+                "foreground": "#78dce8"
             }
         },
         {
@@ -1081,10 +1082,10 @@
             }
         },
         {
-            "scope": ["variable", "variable.other"],
+            "scope": ["variable", "variable.other", "string.json.comments"],
             "settings": {
                 //"foreground": "#fcfcfa"
-                "foreground": "#5be7dc"
+                "foreground": "#78dce8"
             }
         },
         {
