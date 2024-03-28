@@ -284,10 +284,9 @@
         "class": "#46da41",
         "parameter": "#fc9867",
         "property": "#ab9df2",
-        "function": "#a9dc76",
+        "function": "#fffb00",
         "method": "#a9dc76",
         "string": "#ffd866",
-        "numberic": "#ab9df2",
         "operator": "#ff6188",
         "keyword": "#ab9df2"
     },
@@ -347,9 +346,37 @@
                 "foreground": "#fcfcfa"
             }
         },
-
+        {
+            "scope": "source.solidity",
+            "settings": {
+                "foreground": "#ffd866"
+            }
+        },
+        // {
+        //     "scope": "source.solidity variable.parameter",
+        //     "settings": {
+        //         "foreground": "#78dce8"
+        //     }
+        // },
+        {
+            "scope": [
+                "source.solidity entity.name.type.contract",
+                "source.solidity entity.name.type.event",
+                "source.solidity class",
+                "source.solidity variable.language"
+            ],
+            "settings": {
+                "foreground": "#46da41"
+            }
+        },
         {
             "scope": "constant.other.symbol",
+            "settings": {
+                "foreground": "#fc9867"
+            }
+        },
+        {
+            "scope": "storage.type.modifier",
             "settings": {
                 "foreground": "#fc9867"
             }
@@ -542,7 +569,7 @@
         {
             "scope": ["meta.function-call", "meta.function-call.arguments meta.function-call"],
             "settings": {
-                "foreground": "#a9dc76"
+                "foreground": "#fffb00"
             }
         },
         {

@@ -3,9 +3,9 @@
     "publisher": "codetin",
     "displayName": "Monokai Orange",
     "description": "Monokai Orange Theme",
-    "version": "0.1.5",
+    "version": "0.1.8",
     "license": "MIT",
-    "icon": "icon.png",
+    "icon": "MonokaiOrange.png",
     "engines": {
         "vscode": "^1.31.0"
     },
